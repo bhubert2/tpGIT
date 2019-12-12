@@ -21,6 +21,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
     cout << "Ca va ?" << endl;
+    cout << "Tres bien" << endl;
     return 0;
 }
 
